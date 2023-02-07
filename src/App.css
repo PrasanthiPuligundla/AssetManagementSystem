@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  padding: auto;
+}
+
+.App-header {
+  background-color: #2cc921;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.style{
+  text-align: center;
+}
+.body{
+  align-items: center;
+  text-align: center;
+}
+
+/* .App-link { 
+  color: #a18521;
+}*/
+
+

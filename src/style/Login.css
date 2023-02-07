@@ -1,0 +1,23 @@
+.login {
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+
+.login input {
+    font:inherit;
+    padding: 0.5rem;
+    border-radius: 6px;
+    border: 1px solid #aaa;
+    width: 20%;
+    max-width: 100%;
+
+}
+
+
+body{
+    background-image: url("C:\Users\PRASANTP\asset_management\src\images\images.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
